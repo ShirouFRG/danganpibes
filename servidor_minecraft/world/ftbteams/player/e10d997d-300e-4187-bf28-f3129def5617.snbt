@@ -1,0 +1,17 @@
+{
+	id: "e10d997d-300e-4187-bf28-f3129def5617"
+	type: "player"
+	player_name: "ShionSonozaki04"
+	ranks: {
+		e10d997d-300e-4187-bf28-f3129def5617: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ShionSonozaki04"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFFE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

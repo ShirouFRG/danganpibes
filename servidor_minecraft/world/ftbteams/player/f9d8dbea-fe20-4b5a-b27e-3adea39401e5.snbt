@@ -1,0 +1,17 @@
+{
+	id: "f9d8dbea-fe20-4b5a-b27e-3adea39401e5"
+	type: "player"
+	player_name: "DushiEverlasting"
+	ranks: {
+		f9d8dbea-fe20-4b5a-b27e-3adea39401e5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DushiEverlasting"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A9FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

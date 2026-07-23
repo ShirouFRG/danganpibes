@@ -1,0 +1,17 @@
+{
+	id: "1bec71a4-221b-4122-801a-bd237f513773"
+	type: "player"
+	player_name: "ShirouFRG"
+	ranks: {
+		1bec71a4-221b-4122-801a-bd237f513773: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ShirouFRG"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8DFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

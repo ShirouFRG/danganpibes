@@ -1,0 +1,96 @@
+[23Jul2026 00:01:56.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rissmo was slain by Baby Spider
+[23Jul2026 00:02:00.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported Rissmo to ShirouFRG]
+[23Jul2026 00:09:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rissmo> clip
+[23Jul2026 00:12:06.507] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ShionSonozaki04 is e10d997d-300e-4187-bf28-f3129def5617
+[23Jul2026 00:12:08.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShionSonozaki04[/127.230.138.103:48241] logged in with entity id 58148 at (-458.565611520144, 67.0, 629.8913602682572)
+[23Jul2026 00:12:08.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 joined the game
+[23Jul2026 00:12:08.710] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e10d997d-300e-4187-bf28-f3129def5617
+[23Jul2026 00:12:08.714] [Server thread/INFO] [Jade/]: Syncing config to ShionSonozaki04 (e10d997d-300e-4187-bf28-f3129def5617)
+[23Jul2026 00:12:11.292] [Server thread/INFO] [pingwheel/]: Channel update: ShionSonozaki04 -> default
+[23Jul2026 00:12:11.325] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShionSonozaki04 (20)
+[23Jul2026 00:12:11.325] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShionSonozaki04
+[23Jul2026 00:12:12.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e10d997d-300e-4187-bf28-f3129def5617
+[23Jul2026 00:12:13.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e10d997d-300e-4187-bf28-f3129def5617
+[23Jul2026 00:12:13.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShionSonozaki04 (e10d997d-300e-4187-bf28-f3129def5617) successfully connected to voice chat
+[23Jul2026 00:12:32.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rissmo has made the advancement [Hot Stuff]
+[23Jul2026 00:14:30.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was slain by Hornet Harbinger
+[23Jul2026 00:14:36.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to Rissmo]
+[23Jul2026 00:14:38.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rissmo was slain by Hornet Harbinger
+[23Jul2026 00:14:45.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rissmo: Teleported Rissmo to ShirouFRG]
+[23Jul2026 00:14:46.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG withered away whilst fighting Hornet Harbinger
+[23Jul2026 00:15:18.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/62644, l='ServerLevel[world]', x=354.38, y=73.00, z=344.50] died, message: 'Farmer was slain by Zombie'
+[23Jul2026 00:15:31.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62639, l='ServerLevel[world]', x=324.35, y=69.00, z=249.53] died, message: 'Unemployed was slain by Decaying Zombie'
+[23Jul2026 00:15:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 was slain by Restless Spirit
+[23Jul2026 00:15:56.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to -1742.500000, 70.500000, 616.500000]
+[23Jul2026 00:16:04.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was slain by Man From The Fog
+[23Jul2026 00:16:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rissmo was slain by Corpse Fish
+[23Jul2026 00:16:13.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to Rissmo]
+[23Jul2026 00:16:23.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[23Jul2026 00:16:35.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rissmo was blown up by Creeper
+[23Jul2026 00:16:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rissmo withered away whilst fighting Spider Funnel
+[23Jul2026 00:17:23.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to -1739.500000, 70.500000, 618.500000]
+[23Jul2026 00:17:34.127] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/62661, l='ServerLevel[world]', x=359.66, y=71.00, z=325.77] died, message: 'Librarian was slain by Swarmer'
+[23Jul2026 00:17:38.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ShirouFRG> tpa
+[23Jul2026 00:17:47.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rissmo: Teleported Rissmo to ShirouFRG]
+[23Jul2026 00:17:51.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG withered away whilst fighting Hornet Harbinger
+[23Jul2026 00:17:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ShirouFRG> bro que era esi+
+[23Jul2026 00:18:00.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to Rissmo]
+[23Jul2026 00:19:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG withered away whilst fighting Nightmare Stalker
+[23Jul2026 00:19:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 fell from a high place
+[23Jul2026 00:19:32.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to Rissmo]
+[23Jul2026 00:19:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rissmo was slain by Nightmare Stalker
+[23Jul2026 00:20:13.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7e441e34-8a65-406c-9b3f-a1ff96d62a5d timed out
+[23Jul2026 00:20:13.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rissmo
+[23Jul2026 00:20:13.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rissmo
+[23Jul2026 00:20:20.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to ShionSonozaki04]
+[23Jul2026 00:20:40.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ShirouFRG> eyt
+[23Jul2026 00:20:59.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rissmo lost connection: Timed out
+[23Jul2026 00:20:59.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rissmo left the game
+[23Jul2026 00:20:59.413] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7e441e34-8a65-406c-9b3f-a1ff96d62a5d
+[23Jul2026 00:20:59.413] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rissmo
+[23Jul2026 00:20:59.453] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jul2026 00:21:05.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was doomed to fall by Mr. Pumpkin
+[23Jul2026 00:21:12.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to 149.500000, 74.500000, 451.500000]
+[23Jul2026 00:22:26.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to -1784.500000, 66.500000, 680.500000]
+[23Jul2026 00:22:42.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to ShionSonozaki04]
+[23Jul2026 00:23:48.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 was slain by Spider Lunger
+[23Jul2026 00:23:57.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShionSonozaki04 to ShirouFRG]
+[23Jul2026 00:24:00.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShionSonozaki04 to ShirouFRG]
+[23Jul2026 00:26:37.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 has made the advancement [Dark Metallurgy]
+[23Jul2026 00:30:14.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was slain by Man From The Fog
+[23Jul2026 00:30:22.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to -452.500000, 68.500000, 803.500000]
+[23Jul2026 00:31:10.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [What a Dungeon!]
+[23Jul2026 00:31:10.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 has made the advancement [What a Dungeon!]
+[23Jul2026 00:32:14.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 has made the advancement [Not Today, Thank You]
+[23Jul2026 00:33:56.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 was slain by Baby Spider
+[23Jul2026 00:34:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShionSonozaki04 to ShirouFRG]
+[23Jul2026 00:34:25.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was slain by Corpse Fly
+[23Jul2026 00:35:12.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was shot by Skeleton
+[23Jul2026 00:35:13.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 was shot by Skeleton
+[23Jul2026 00:35:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 has made the advancement [Acquire Hardware]
+[23Jul2026 00:37:09.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 was shot by Skeleton
+[23Jul2026 00:37:47.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 was shot by Skeleton
+[23Jul2026 00:37:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was shot by Skeleton
+[23Jul2026 00:38:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 was shot by Skeleton
+[23Jul2026 00:41:43.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was impaled by Drowned
+[23Jul2026 00:41:51.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to -443.500000, 61.500000, 732.500000]
+[23Jul2026 00:41:51.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 was impaled by Drowned
+[23Jul2026 00:42:06.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was impaled by Drowned
+[23Jul2026 00:42:21.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to -445.500000, 62.500000, 738.500000]
+[23Jul2026 00:42:29.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShionSonozaki04 to ShirouFRG]
+[23Jul2026 00:42:43.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG was slain by The Damned
+[23Jul2026 00:42:43.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG has made the advancement [Condemned To Die]
+[23Jul2026 00:42:51.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 was impaled by Drowned
+[23Jul2026 00:42:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShirouFRG to -471.500000, 63.500000, 714.500000]
+[23Jul2026 00:43:01.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShirouFRG: Teleported ShionSonozaki04 to ShirouFRG]
+[23Jul2026 00:44:53.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=45}
+[23Jul2026 00:47:46.852] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-515, y=47, z=-197} but found not block entity block Block{minecraft:water}[level=5] at location
+[23Jul2026 00:47:46.852] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=5] but failed at location BlockPos{x=-515, y=47, z=-197}
+[23Jul2026 00:49:01.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShirouFRG lost connection: Disconnected
+[23Jul2026 00:49:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShirouFRG left the game
+[23Jul2026 00:49:01.405] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1bec71a4-221b-4122-801a-bd237f513773
+[23Jul2026 00:49:01.405] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShirouFRG
+[23Jul2026 00:49:19.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShionSonozaki04 lost connection: Disconnected
+[23Jul2026 00:49:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShionSonozaki04 left the game
+[23Jul2026 00:49:19.794] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e10d997d-300e-4187-bf28-f3129def5617
+[23Jul2026 00:49:19.794] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShionSonozaki04

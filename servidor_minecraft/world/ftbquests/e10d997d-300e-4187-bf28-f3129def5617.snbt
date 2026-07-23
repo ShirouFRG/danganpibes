@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "e10d997d300e4187bf28f3129def5617"
+	name: "ShionSonozaki04#e10d997d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

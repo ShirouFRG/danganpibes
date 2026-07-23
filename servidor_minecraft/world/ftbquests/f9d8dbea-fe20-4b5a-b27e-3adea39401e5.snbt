@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "f9d8dbeafe204b5ab27e3adea39401e5"
+	name: "DushiEverlasting#f9d8dbea"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

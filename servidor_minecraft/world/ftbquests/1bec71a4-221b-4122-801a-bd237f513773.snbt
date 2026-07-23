@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "1bec71a4221b4122801abd237f513773"
+	name: "ShirouFRG#1bec71a4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

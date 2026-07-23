@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "7e441e348a65406c9b3fa1ff96d62a5d"
+	name: "Rissmo#7e441e34"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
